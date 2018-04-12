@@ -5,7 +5,7 @@ package com.strategyPattern.service;
  */
 
 /**
- * 封装飞行行为
+ * 封装飞行行为接口
  *
  */
 public interface FlyBehavior {

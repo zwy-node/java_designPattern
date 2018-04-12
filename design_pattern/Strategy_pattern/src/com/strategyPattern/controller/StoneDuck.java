@@ -7,6 +7,6 @@ public class StoneDuck extends Duck{
 
     @Override
     public void display() {
-        System.out.println("~~ Stone Duck ~~");
+        System.out.println("** StoneDuck **");
     }
 }
